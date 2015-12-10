@@ -1,0 +1,26 @@
+{
+  "name": "steal-env",
+  "version": "1.0.0",
+  "description": "Environment utilities for StealJS",
+  "main": "env.js",
+  "scripts": {
+    "test": "testee test/test.html --browsers firefox"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stealjs/steal-env.git"
+  },
+  "keywords": [
+    "StealJS"
+  ],
+  "author": "Bitovi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stealjs/steal-env/issues"
+  },
+  "homepage": "https://github.com/stealjs/steal-env#readme",
+  "devDependencies": {
+    "steal": "^0.12.7",
+    "steal-qunit": "^0.1.1"
+  }
+}
